@@ -1,2 +1,1 @@
-# HackerRank
-A repo for my all solved problems in HackerRank
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RatulHasan8&repo=HackerRank)](https://github.com/anuraghazra/github-readme-stats)
