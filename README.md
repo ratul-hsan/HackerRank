@@ -13,7 +13,7 @@ In this repo I save solutions to those problems which I've solved in HackerRank.
   <b>&nbsp;Languages I Use</b>
 </h1>
 
-![C](https://img.shields.io/badge/-blue?style=for-the-badge&logo=C&logoColor=white)
+![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=coursera&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white)
 
