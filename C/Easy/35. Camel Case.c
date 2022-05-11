@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+#define problemUrl "https://www.hackerrank.com/challenges/camelcase"
+
 int camelcase(char *s) {
     int totalWords = 1;
     
