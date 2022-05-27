@@ -2,7 +2,7 @@
 -->
 <p align="center">
     <a href="https://www.hackerrank.com">
-        <img height=175 src="https://hrcdn.net/hackerrank/assets/styleguide/logo_wordmark-13074b67abceb42ce8fd38bdeaac6926.svg">
+        <img src="logo.png">
     </a>
 </p>
 <h1 align="left">
