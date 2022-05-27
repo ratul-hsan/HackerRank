@@ -2,7 +2,7 @@
 -->
 <p align="center">
     <a href="https://www.hackerrank.com">
-        <img height=100 src="logo.png">
+        <img src="logo.png">
     </a>
 </p>
 <h1 align="left">
