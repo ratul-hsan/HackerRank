@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution {
+public class RepeatedString {
     String problemUrl = "https://www.hackerrank.com/challenges/repeated-string";
 
     public static long repeatedString(String s, long n) {
@@ -34,22 +34,7 @@ public class Solution {
         return occurrence;
     }
     
-    public static double pow(long base, long power) {
-        if (power < 2) {
-            if (power < 0)
-                return 1 / pow(base, power * -1);
-            else
-                return power == 1 ? base : 1;
-        }
-
-        long result = base * base;
-        
-        for (int i = 3; i <= power; i++)
-            result *= base;
-        return result;
-    }
-    
     public static void main(String[] args) {
-        System.out.println(repeatedString("a", (long) pow(10, 12)));
+        System.out.println(repeatedString("a", (long) Math.pow(10, 12)));
     }
 }
