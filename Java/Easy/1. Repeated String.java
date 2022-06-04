@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class RepeatedString {
-    String problemUrl = "https://www.hackerrank.com/challenges/repeated-string";
+    public static String problemUrl = "https://www.hackerrank.com/challenges/repeated-string";
 
     public static long repeatedString(String s, long n) {
         long occurrence = 0;

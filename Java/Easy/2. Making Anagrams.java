@@ -2,6 +2,8 @@ import java.util.Map;
 import java.util.HashMap;
 
 public class MakingAnagrams {
+	public static String problemUrl = "https://www.hackerrank.com/challenges/making-anagrams";
+	
 	public static void debugMap(Map map) {
 		System.out.println("===== Debugging Map =====");
 		for (Map.Entry entry : map.entrySet())
